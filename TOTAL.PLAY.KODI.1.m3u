@@ -1,0 +1,221 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="hola-tv.png" group-title="TOTAL PLAY",HOLA TV
+http://tpfree.freevar.com//chlist.php?ch=219
+#EXTINF:-1 tvg-logo="garage-tv.png" group-title="TOTAL PLAY",GARAGE TV
+http://tpfree.freevar.com//chlist.php?ch=269
+#EXTINF:-1 tvg-logo="ftv.png" group-title="TOTAL PLAY",FTV
+http://tpfree.freevar.com//chlist.php?ch=220
+#EXTINF:-1 tvg-logo="az-click.png" group-title="TOTAL PLAY",AZ CLICK
+http://tpfree.freevar.com//chlist.php?ch=725
+#EXTINF:-1 tvg-id="DTV-USA_I441.33652.schedulesdirect.org" tvg-name="AZTECAE441_AZTECAE441Azteca_America_Network" tvg-logo="aznoticias.png" group-title="TOTAL PLAY",AZ NOTICIAS
+http://tpfree.freevar.com//chlist.php?ch=2
+#EXTINF:-1 tvg-id="TVGuia_Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca-7.png" group-title="TOTAL PLAY",AZTECA 7
+http://tpfree.freevar.com//chlist.php?ch=7
+#EXTINF:-1 tvg-id="TVGuia_El Trece" tvg-name="El_Trece" tvg-logo="el-trece.png" group-title="TOTAL PLAY",TRECE
+http://tpfree.freevar.com//chlist.php?ch=13
+#EXTINF:-1 tvg-id="TVGuia_Proyecto 40" tvg-name="Proyecto_40" tvg-logo="proyecto-40.png" group-title="TOTAL PLAY",PROYECTO 40
+http://tpfree.freevar.com//chlist.php?ch=40
+#EXTINF:-1 tvg-id="TVGuia_Az Corazón" tvg-name="Az_Corazón" tvg-logo="azteca-novelas.png" group-title="TOTAL PLAY",AZ CORAZON
+http://tpfree.freevar.com//chlist.php?ch=45
+#EXTINF:-1 tvg-id="TVGuia_Canal 2 HD" tvg-name="Canal_2_HD" tvg-logo="canal-2-HD.png" group-title="TOTAL PLAY",CANAL 2
+http://tpfree.freevar.com//chlist.php?ch=102
+#EXTINF:-1 tvg-id="TVGuia_Foro TV" tvg-name="Foro_TV" tvg-logo="foro-tv-HD.png" group-title="TOTAL PLAY",FORO TV
+http://tpfree.freevar.com//chlist.php?ch=104
+#EXTINF:-1 tvg-id="TVGuia_Canal 5 HD" tvg-name="Canal_5_HD" tvg-logo="canal-5-HD.png" group-title="TOTAL PLAY",CANAL 5
+http://tpfree.freevar.com//chlist.php?ch=105
+#EXTINF:-1 tvg-id="TVGuia_Gala TV" tvg-name="Gala_TV" tvg-logo="gala-tv-hd.png" group-title="TOTAL PLAY",GALA TV
+http://tpfree.freevar.com//chlist.php?ch=109
+#EXTINF:-1 tvg-id="TVGuia_Once TV" tvg-name="Once_TV" tvg-logo="once-tv.png" group-title="TOTAL PLAY",ONCE TV
+http://tpfree.freevar.com//chlist.php?ch=111
+#EXTINF:-1 tvg-id="TVGuia_Cadena 3" tvg-name="Cadena_3" tvg-logo="cadena-3.png" group-title="TOTAL PLAY",CADENA 3
+http://tpfree.freevar.com//chlist.php?ch=143
+#EXTINF:-1 tvg-id="TVGuia_TeleFórmula" tvg-name="TeleFórmula" tvg-logo="teleformula.png" group-title="TOTAL PLAY",TELEFORMULA
+http://tpfree.freevar.com//chlist.php?ch=161
+#EXTINF:-1 tvg-id="TVGuia_Multimedios Monterrey" tvg-name="Multimedios_Monterrey" tvg-logo="multimedios-monterrey.png" group-title="TOTAL PLAY",MULTIMEDIOS MONTERREY
+http://tpfree.freevar.com//chlist.php?ch=167
+#EXTINF:-1 tvg-id="CV-MX_I181.91350.schedulesdirect.org" tvg-name="HMXTV181_HMXTV181HMX_TV" tvg-logo="hmx.png" group-title="TOTAL PLAY",HMX
+http://tpfree.freevar.com//chlist.php?ch=169
+#EXTINF:-1 tvg-id="TVGuia_Fox" tvg-name="Fox" tvg-logo="fox.png" group-title="TOTAL PLAY",FOX
+http://tpfree.freevar.com//chlist.php?ch=201
+#EXTINF:-1 tvg-id="TVGuia_Sony HD" tvg-name="Sony_HD" tvg-logo="sony.png" group-title="TOTAL PLAY",SONY
+http://tpfree.freevar.com//chlist.php?ch=203
+#EXTINF:-1 tvg-id="TVGuia_Warner HD" tvg-name="Warner_HD" tvg-logo="warner-hd.png" group-title="TOTAL PLAY",WARNER CHANNEL
+http://tpfree.freevar.com//chlist.php?ch=205
+#EXTINF:-1 tvg-id="TVGuia_Universal HD" tvg-name="Universal_HD" tvg-logo="universal-channel.png" group-title="TOTAL PLAY",UNIVERSAL 
+http://tpfree.freevar.com//chlist.php?ch=207
+#EXTINF:-1 tvg-id="TVGuia_FX HD" tvg-name="FX_HD" tvg-logo="fx-hd.png" group-title="TOTAL PLAY",FX
+http://tpfree.freevar.com//chlist.php?ch=209
+#EXTINF:-1 tvg-id="TVGuia_AE" tvg-name="A&E" tvg-logo="a&e.png" group-title="TOTAL PLAY",A&E
+http://tpfree.freevar.com//chlist.php?ch=211
+#EXTINF:-1 tvg-id="TVGuia_AXN HD" tvg-name="AXN_HD" tvg-logo="axn-hd.png" group-title="TOTAL PLAY",AXN
+http://tpfree.freevar.com//chlist.php?ch=213
+#EXTINF:-1 tvg-id="TVGuia_TruTV HD" tvg-name="TruTV_HD" tvg-logo="trutv-hd.png" group-title="TOTAL PLAY",TRUTV HD
+http://tpfree.freevar.com//chlist.php?ch=215
+#EXTINF:-1 tvg-id="TVGuia_Comedy Central HD" tvg-name="Comedy_Central_HD" tvg-logo="comedy-central-hd.png" group-title="TOTAL PLAY",COMEDY CENTRAL
+http://tpfree.freevar.com//chlist.php?ch=217
+#EXTINF:-1 tvg-id="TVGuia_Unicable" tvg-name="Unicable" tvg-logo="unicable.png" group-title="TOTAL PLAY",UNICABLE
+http://tpfree.freevar.com//chlist.php?ch=218
+#EXTINF:-1 tvg-id="TVGuia_BBC Entertainment" tvg-name="BBC_Entertainment" tvg-logo="bbc-entertainment.png" group-title="TOTAL PLAY",BBC ENTERTAINMENT
+http://tpfree.freevar.com//chlist.php?ch=253
+#EXTINF:-1 tvg-id="TVGuia_E! Entertainment Television" tvg-name="E!_Entertainment_Television" tvg-logo="!e.png" group-title="TOTAL PLAY",E! ENTERTAINMENT
+http://tpfree.freevar.com//chlist.php?ch=255
+#EXTINF:-1 tvg-id="TVGuia_Universal Channel" tvg-name="Universal_Channel" tvg-logo="universal-channel.png" group-title="TOTAL PLAY",UNIVERSAL CHANNEL 
+http://tpfree.freevar.com//chlist.php?ch=256
+#EXTINF:-1 tvg-id="TVGuia_SyFy" tvg-name="SyFy" tvg-logo="syfy.png" group-title="TOTAL PLAY",SYFY
+http://tpfree.freevar.com//chlist.php?ch=257
+#EXTINF:-1 tvg-id="TVGuia_FX" tvg-name="FX" tvg-logo="fx.png" group-title="TOTAL PLAY",FX
+http://tpfree.freevar.com//chlist.php?ch=258
+#EXTINF:-1 tvg-id="TVGuia_El Gourmet" tvg-name="El_Gourmet" tvg-logo="el-gourmet.png" group-title="TOTAL PLAY",EL GOURMET
+http://tpfree.freevar.com//chlist.php?ch=268
+#EXTINF:-1 tvg-id="TVGuia_Glitz" tvg-name="Glitz" tvg-logo="glitz.png" group-title="TOTAL PLAY",GLITZ
+http://tpfree.freevar.com//chlist.php?ch=270
+#EXTINF:-1 tvg-id="TVGuia_Fox Life" tvg-name="Fox_Life" tvg-logo="fox-life.png" group-title="TOTAL PLAY",FOX LIFE
+http://tpfree.freevar.com//chlist.php?ch=271
+#EXTINF:-1 tvg-id="TVGuia_Distrito Comedia" tvg-name="Distrito_Comedia" tvg-logo="distrito-comedia.png" group-title="TOTAL PLAY",DISTRITO COMEDIA
+http://tpfree.freevar.com//chlist.php?ch=272
+#EXTINF:-1 tvg-id="TVGuia_TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="TOTAL PLAY",TBS
+http://tpfree.freevar.com//chlist.php?ch=273
+#EXTINF:-1 tvg-id="TVGuia_Casa Club" tvg-name="Casa_Club" tvg-logo="casa-club.png" group-title="TOTAL PLAY",CASA CLUB
+http://tpfree.freevar.com//chlist.php?ch=274
+#EXTINF:-1 tvg-id="TVGuia_Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.png" group-title="TOTAL PLAY",TLNOVELAS
+http://tpfree.freevar.com//chlist.php?ch=275
+#EXTINF:-1 tvg-id="TVGuia_Discovery Kids" tvg-name="Discovery_Kids" tvg-logo="discovery-kids.png" group-title="TOTAL PLAY",DISCOVERY KIDS
+http://tpfree.freevar.com//chlist.php?ch=303
+#EXTINF:-1 tvg-id="TVGuia_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="TOTAL PLAY",CBEEBIES
+http://tpfree.freevar.com//chlist.php?ch=305
+#EXTINF:-1 tvg-id="TVGuia_Disney Jr" tvg-name="Disney_Jr" tvg-logo="disney-jr.png" group-title="TOTAL PLAY",DISNEY JR
+http://tpfree.freevar.com//chlist.php?ch=308
+#EXTINF:-1 tvg-id="TVGuia_Nick Jr" tvg-name="Nick_Jr" tvg-logo="nick-jr.png" group-title="TOTAL PLAY",NICK JR
+http://tpfree.freevar.com//chlist.php?ch=310
+#EXTINF:-1 tvg-id="TVGuia_Disney Channel" tvg-name="Disney_Channel" tvg-logo="disney-channel.png" group-title="TOTAL PLAY",DISNEY CHANNEL
+http://tpfree.freevar.com//chlist.php?ch=312
+#EXTINF:-1 tvg-id="CV-MX_I321.90209.schedulesdirect.org" tvg-name="NICLA321_NICLA321NickToons_Latin_America" tvg-logo="nicktoons.png" group-title="TOTAL PLAY",NICKTOONS
+http://tpfree.freevar.com//chlist.php?ch=314
+#EXTINF:-1 tvg-id="TVGuia_Nick HD" tvg-name="Nick_HD" tvg-logo="nick-hd.png" group-title="TOTAL PLAY",NICK
+http://tpfree.freevar.com//chlist.php?ch=315
+#EXTINF:-1 tvg-id="TVGuia_Nickelodeon (Nick)" tvg-name="Nickelodeon_(Nick)" tvg-logo="nickelodeon-(nick).png" group-title="TOTAL PLAY",NICKELODEON
+http://tpfree.freevar.com//chlist.php?ch=317
+#EXTINF:-1 tvg-id="TVGuia_Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="cartoon-network.png" group-title="TOTAL PLAY",CARTOON NETWORK
+http://tpfree.freevar.com//chlist.php?ch=320
+#EXTINF:-1 tvg-id="TVGuia_Disney XD" tvg-name="Disney_XD" tvg-logo="disney-xd.png" group-title="TOTAL PLAY",DISNEY XD
+http://tpfree.freevar.com//chlist.php?ch=322
+#EXTINF:-1 tvg-id="TVGuia_Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="TOTAL PLAY",BOOMERANG
+http://tpfree.freevar.com//chlist.php?ch=324
+#EXTINF:-1 tvg-id="TVGuia_TIIN" tvg-name="TIIN" tvg-logo="tiin.png" group-title="TOTAL PLAY",TIIN
+http://tpfree.freevar.com//chlist.php?ch=325
+#EXTINF:-1 tvg-id="TVGuia_Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="TOTAL PLAY",TOONCAST
+http://tpfree.freevar.com//chlist.php?ch=328
+#EXTINF:-1 tvg-id="TVGuia_Investigación Discovery" tvg-name="Investigación_Discovery" tvg-logo="Investigacion-Discovery.png" group-title="TOTAL PLAY",INVESTIGACION DISCOVERY
+http://tpfree.freevar.com//chlist.php?ch=263
+#EXTINF:-1 tvg-id="TVGuia_TNT Series" tvg-name="TNT_Series" tvg-logo="tnt-series.png" group-title="TOTAL PLAY",TNT SERIES
+http://tpfree.freevar.com//chlist.php?ch=266
+#EXTINF:-1 tvg-id="TVGuia_HD Theater" tvg-name="Discovery_Theater_HD" tvg-logo="hd-theater.png" group-title="TOTAL PLAY",DISCOVERY THEATER
+http://tpfree.freevar.com//chlist.php?ch=351
+#EXTINF:-1 tvg-id="TVGuia_History HD" tvg-name="History_HD" tvg-logo="history-hd.png" group-title="TOTAL PLAY",HISTORY 
+http://tpfree.freevar.com//chlist.php?ch=353
+#EXTINF:-1 tvg-id="TVGuia_NatGeo Wild HD" tvg-name="NatGeo_Wild_HD" tvg-logo="natgeo-wild-hd.png" group-title="TOTAL PLAY",NATGEO WILD
+http://tpfree.freevar.com//chlist.php?ch=355
+#EXTINF:-1 tvg-id="TVGuia_TLC" tvg-name="TLC" tvg-logo="tlc-hd.png" group-title="TOTAL PLAY",TLC
+http://tpfree.freevar.com//chlist.php?ch=356
+#EXTINF:-1 tvg-id="TVGuia_Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="discovery-channel.png" group-title="TOTAL PLAY",DISCOVERY CHANNEL 
+http://tpfree.freevar.com//chlist.php?ch=371
+#EXTINF:-1 tvg-id="TVGuia_Animal Planet" tvg-name="Animal_Planet" tvg-logo="animalplanet.png" group-title="TOTAL PLAY",ANIMAL PLANET
+http://tpfree.freevar.com//chlist.php?ch=373
+#EXTINF:-1 tvg-id="TVGuia_Home and Health" tvg-name="Home_and_Health" tvg-logo="home-and-health.png" group-title="TOTAL PLAY",DISCOVERY H&H
+http://tpfree.freevar.com//chlist.php?ch=374
+#EXTINF:-1 tvg-id="TVGuia_NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="TOTAL PLAY",NATGEO
+http://tpfree.freevar.com//chlist.php?ch=377
+#EXTINF:-1 tvg-id="TVGuia_lifetime_latinoamerica" tvg-name="Lifetime" tvg-logo="lifetime.png" group-title="TOTAL PLAY",LIFETIME
+http://tpfree.freevar.com//chlist.php?ch=379
+#EXTINF:-1 tvg-id="TVGuia_Discovery Science" tvg-name="Discovery_Science" tvg-logo="discovery-science.png" group-title="TOTAL PLAY",DISCOVERY SCIENCE
+http://tpfree.freevar.com//chlist.php?ch=381
+#EXTINF:-1 tvg-id="TVGuia_Discovery Civilization" tvg-name="Discovery_Civilization" tvg-logo="discovery-civilization.png" group-title="TOTAL PLAY",DISCOVERY CIVILIZATION
+http://tpfree.freevar.com//chlist.php?ch=382
+#EXTINF:-1 tvg-id="TVGuia_Discovery Turbo" tvg-name="Discovery_Turbo" tvg-logo="discovery-turbo.png" group-title="TOTAL PLAY",DISCOVERY TURBO
+http://tpfree.freevar.com//chlist.php?ch=383
+#EXTINF:-1 tvg-id="TVGuia_TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="TOTAL PLAY",TLC
+http://tpfree.freevar.com//chlist.php?ch=386
+#EXTINF:-1 tvg-id="TVGuia_WOBI TV" tvg-name="WOBI_TV" tvg-logo="wobi-tv.png" group-title="TOTAL PLAY",WOBI TV
+http://tpfree.freevar.com//chlist.php?ch=387
+#EXTINF:-1 tvg-id="TVGuia_Fox 1 HD" tvg-name="Fox_1_HD" tvg-logo="fox-1-hd.png" group-title="TOTAL PLAY",FOX 1
+http://tpfree.freevar.com//chlist.php?ch=415
+#EXTINF:-1 tvg-id="TVGuia_Fox Action HD" tvg-name="Fox_Action_HD" tvg-logo="fox-action.png" group-title="TOTAL PLAY",FOX ACTION
+http://tpfree.freevar.com//chlist.php?ch=416
+#EXTINF:-1 tvg-id="TVGuia_Fox Movies HD" tvg-name="Fox_Movies_HD" tvg-logo="fox-movies-HD.png" group-title="TOTAL PLAY",FOX MOVIES
+http://tpfree.freevar.com//chlist.php?ch=417
+#EXTINF:-1 tvg-id="TVGuia_Fox Cinéma" tvg-name="Fox_Cinéma" tvg-logo="fox-cinema.png" group-title="TOTAL PLAY",FOX CINEMA
+http://tpfree.freevar.com//chlist.php?ch=421
+#EXTINF:-1 tvg-id="TVGuia_Fox Classics" tvg-name="Fox_Classics" tvg-logo="fox-classics.png" group-title="TOTAL PLAY",FOX CLASSICS
+http://tpfree.freevar.com//chlist.php?ch=424
+#EXTINF:-1 tvg-id="TVGuia_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="TOTAL PLAY",CINECANAL+
+http://tpfree.freevar.com//chlist.php?ch=430
+#EXTINF:-1 tvg-id="TVGuia_TNT HD" tvg-name="TNT_HD" tvg-logo="tnt-hd.png" group-title="TOTAL PLAY",TNT
+http://tpfree.freevar.com//chlist.php?ch=435
+#EXTINF:-1 tvg-id="TVGuia_Golden" tvg-name="Golden" tvg-logo="golden.png" group-title="TOTAL PLAY",GOLDEN
+http://tpfree.freevar.com//chlist.php?ch=436
+#EXTINF:-1 tvg-id="TVGuia_The Film Zone HD" tvg-name="The_Film_Zone_HD" tvg-logo="the-film-zone-hd.png" group-title="TOTAL PLAY",THE FILM ZONE
+http://tpfree.freevar.com//chlist.php?ch=440
+#EXTINF:-1 tvg-id="TVGuia_De Película HD" tvg-name="De_Película_HD" tvg-logo="de-pelicula-hd.png" group-title="TOTAL PLAY",DE PELICULA
+http://tpfree.freevar.com//chlist.php?ch=442
+#EXTINF:-1 tvg-id="TVGuia_AMC HD" tvg-name="AMC_HD" tvg-logo="amchd.png" group-title="TOTAL PLAY",AMC 
+http://tpfree.freevar.com//chlist.php?ch=444
+#EXTINF:-1 tvg-id="TVGuia_Space HD" tvg-name="Space_HD" tvg-logo="space-hd.png" group-title="TOTAL PLAY",SPACE HD
+http://tpfree.freevar.com//chlist.php?ch=445
+#EXTINF:-1 tvg-id="TVGuia_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-(W).png" group-title="TOTAL PLAY",CINECANAL
+http://tpfree.freevar.com//chlist.php?ch=480
+#EXTINF:-1 tvg-id="TVGuia_Cinemax (W)" tvg-name="Cinemax_(W)" tvg-logo="cinemax-(w).png" group-title="TOTAL PLAY",CINEMAX
+http://tpfree.freevar.com//chlist.php?ch=481
+#EXTINF:-1 tvg-id="TVGuia_TNT" tvg-name="TNT" tvg-logo="tnt.png" group-title="TOTAL PLAY",TNT
+http://tpfree.freevar.com//chlist.php?ch=482
+#EXTINF:-1 tvg-id="TVGuia_Golden Edge" tvg-name="Golden_Edge" tvg-logo="golden-edge.png" group-title="TOTAL PLAY",GOLDEN EDGE
+http://tpfree.freevar.com//chlist.php?ch=484
+#EXTINF:-1 tvg-id="TVGuia_Space" tvg-name="Space" tvg-logo="space.png" group-title="TOTAL PLAY",SPACE
+http://tpfree.freevar.com//chlist.php?ch=491
+#EXTINF:-1 tvg-id="TVGuia_Studio Universal" tvg-name="Studio_Universal" tvg-logo="studio-universal.png" group-title="TOTAL PLAY",STUDIO UNIVERSAL
+http://tpfree.freevar.com//chlist.php?ch=492
+#EXTINF:-1 tvg-id="TVGuia_I.Sat" tvg-name="I.Sat" tvg-logo="i.sat.png" group-title="TOTAL PLAY",I.SAT
+http://tpfree.freevar.com//chlist.php?ch=495
+#EXTINF:-1 tvg-id="TVGuia_TCM" tvg-name="TCM" tvg-logo="tcm.png" group-title="TOTAL PLAY",TCM
+http://tpfree.freevar.com//chlist.php?ch=496
+#EXTINF:-1 tvg-id="TVGuia_Fox Sports HD" tvg-name="Fox_Sports_HD" tvg-logo="fox-sports-hd.png" group-title="TOTAL PLAY",FOX SPORTS
+http://tpfree.freevar.com//chlist.php?ch=522
+#EXTINF:-1 tvg-id="TVGuia_Fox Sports 2 HD" tvg-name="Fox_Sports_2_HD" tvg-logo="fox-sports-2-hd.png" group-title="TOTAL PLAY",FOX SPORTS 2
+http://tpfree.freevar.com//chlist.php?ch=527
+#EXTINF:-1 tvg-id="TVGuia_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="TOTAL PLAY",ESPN HD
+http://tpfree.freevar.com//chlist.php?ch=516
+#EXTINF:-1 tvg-id="TVGuia_ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="TOTAL PLAY",ESPN
+http://tpfree.freevar.com//chlist.php?ch=558
+#EXTINF:-1 tvg-id="TVGuia_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="TOTAL PLAY",ESPN 2
+http://tpfree.freevar.com//chlist.php?ch=561
+#EXTINF:-1 tvg-id="TVGuia_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="TOTAL PLAY",ESPN 3
+http://tpfree.freevar.com//chlist.php?ch=520
+#EXTINF:-1 tvg-id="TVGuia_AyM Sports" tvg-name="AyM_Sports" tvg-logo="aym-sports.png" group-title="TOTAL PLAY",AYM SPORTS
+http://tpfree.freevar.com//chlist.php?ch=576
+#EXTINF:-1 tvg-id="TVGuia_Milenio TV" tvg-name="Milenio_TV" tvg-logo="milenio-tv.png" group-title="TOTAL PLAY",MILENIO TV
+http://tpfree.freevar.com//chlist.php?ch=603
+#EXTINF:-1 tvg-id="TVGuia_Canal Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="TOTAL PLAY",BLOMBERG
+http://tpfree.freevar.com//chlist.php?ch=610
+#EXTINF:-1 tvg-id="TVGuia_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="TOTAL PLAY",TVE
+http://tpfree.freevar.com//chlist.php?ch=651
+#EXTINF:-1 tvg-id="TVGuia_MTV Live HD" tvg-name="MTV_Live_HD" tvg-logo="mtv-live-hd.png" group-title="TOTAL PLAY",MTV LIVE
+http://tpfree.freevar.com//chlist.php?ch=701
+#EXTINF:-1 tvg-id="TVGuia_Telehit HD" tvg-name="Telehit_HD" tvg-logo="telehit-hd.png" group-title="TOTAL PLAY",TELEHIT HD
+http://tpfree.freevar.com//chlist.php?ch=702
+#EXTINF:-1 tvg-id="TVGuia_VH1 HD" tvg-name="VH1_HD" tvg-logo="vh1-hd.png" group-title="TOTAL PLAY",VH1 HD
+http://tpfree.freevar.com//chlist.php?ch=703
+#EXTINF:-1 tvg-id="TVGuia_MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="TOTAL PLAY",MTV
+http://tpfree.freevar.com//chlist.php?ch=726
+#EXTINF:-1 tvg-id="TVGuia_MTV Hits" tvg-name="MTV_Hits" tvg-logo="mtv-hits.png" group-title="TOTAL PLAY",MTV HITS
+http://tpfree.freevar.com//chlist.php?ch=727
+#EXTINF:-1 tvg-id="TVGuia_Canal VH1 Classic" tvg-name="VH1_Classic" tvg-logo="vh1-classisc.png" group-title="TOTAL PLAY",VH1 CLASSICS
+http://tpfree.freevar.com//chlist.php?ch=728
+#EXTINF:-1 tvg-id="TVGuia_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="TOTAL PLAY",RITMOSON LATINO
+http://tpfree.freevar.com//chlist.php?ch=731
+#EXTINF:-1 tvg-id="TVGuia_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="TOTAL PLAY",BANDAMAX
+http://tpfree.freevar.com//chlist.php?ch=732
+
+
+#EXTINF:-1 tvg-logo="pasiexxx.png" group-title="ADULTOS",PASION
+http://178.33.126.213:1935/leved/passielivestream/chunklist.m3u8
+
